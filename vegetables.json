@@ -1,0 +1,189 @@
+[
+    {
+        "name": "broccoli",
+        "ch": 6.64,
+        "kcal": 34,
+        "image": "vegetablesImages/broccoli.jpg"
+    },
+    {
+        "name": "cauliflower",
+        "ch": 5,
+        "kcal": 25,
+        "image": "vegetablesImages/cauliflower.jpg"
+    },
+    {
+        "name": "eggplant",
+        "ch": 3.5,
+        "kcal": 25,
+        "image": "vegetablesImages/eggplant.jpg"
+    },
+    {
+        "name": "carrot",
+        "ch": 4.7,
+        "kcal": 41,
+        "image": "vegetablesImages/carrot.jpg"
+    },
+    {
+        "name": "parsnip",
+        "ch": 13.1,
+        "kcal": 75,
+        "image": "vegetablesImages/parsnip.jpg"
+    },
+    {
+        "name": "kohlrabi",
+        "ch": 6.2,
+        "kcal": 27,
+        "image": "vegetablesImages/kohlrabi.jpg"
+    },
+    {
+        "name": "celery root",
+        "ch": 7.4,
+        "kcal": 42,
+        "image": "vegetablesImages/celeryRoot.jpg"
+    },
+    {
+        "name": "pea",
+        "ch": 14.5,
+        "kcal": 81,
+        "image": "vegetablesImages/pea.jpg"
+    },
+    {
+        "name": "greenbean",
+        "ch": 4.3,
+        "kcal": 31,
+        "image": "vegetablesImages/greenbean.jpg"
+    },
+    {
+        "name": "red bean",
+        "ch": 15.4,
+        "kcal": 127,
+        "image": "vegetablesImages/redBean.jpg"
+    },
+    {
+        "name": "white bean",
+        "ch": 18.8,
+        "kcal": 139,
+        "image": "vegetablesImages/whiteBean.jpg"
+    },
+    {
+        "name": "kidney bean",
+        "ch": 16.4,
+        "kcal": 127,
+        "image": "vegetablesImages/kidneyBean.jpg"
+    },
+    {
+        "name": "butter-bean",
+        "ch": 3.8,
+        "kcal": 132,
+        "image": "vegetablesImages/butterBean.jpg"
+    },
+    {
+        "name": "zucchini",
+        "ch": 2.5,
+        "kcal": 17,
+        "image": "vegetablesImages/zucchini.jpg"
+    },
+    {
+        "name": "pattypan squash",
+        "ch": 2.6,
+        "kcal": 18,
+        "image": "vegetablesImages/pattypanSquash.jpg"
+    },
+    {
+        "name": "spaghetti squash",
+        "ch": 5.4,
+        "kcal": 31,
+        "image": "vegetablesImages/spaghettiSquash.jpg"
+    },
+    {
+        "name": "pampkin",
+        "ch": 9.7,
+        "kcal": 45,
+        "image": "vegetablesImages/pampkin.jpg"
+    },
+    {
+        "name": "butternut squash",
+        "ch": 9.7,
+        "kcal": 45,
+        "image": "vegetablesImages/butternutSquash.jpg"
+    },
+    {
+        "name": "tomato",
+        "ch": 1.3,
+        "kcal": 18,
+        "image": "vegetablesImages/tomato.jpg"
+    },
+    {
+        "name": "savoy cabbage",
+        "ch": 3.0,
+        "kcal": 27,
+        "image": "vegetablesImages/savoyCabbage.jpg"
+    },
+    {
+        "name": "cabbage",
+        "ch": 5.8,
+        "kcal": 25,
+        "image": "vegetablesImages/cabbage.jpg"
+    },
+    {
+        "name": "chinese cabbage",
+        "ch": 2.0,
+        "kcal": 16,
+        "image": "vegetablesImages/chineseCabbage.jpg"
+    },
+    {
+        "name": "pak-choi",
+        "ch": 1.2,
+        "kcal": 13,
+        "image": "vegetablesImages/pakchoi.jpg"
+    },
+    {
+        "name": "beetroot",
+        "ch": 9.95,
+        "kcal": 44,
+        "image": "vegetablesImages/beetroot.jpg"
+    },
+    {
+        "name": "daikon",
+        "ch": 1.2,
+        "kcal": 14,
+        "image": "vegetablesImages/daikon.jpg"
+    },
+    {
+        "name": "radish",
+        "ch": 1.9,
+        "kcal": 16,
+        "image": "vegetablesImages/radish.jpg"
+    },
+    {
+        "name": "lettuce",
+        "ch": 1.6,
+        "kcal": 15,
+        "image": "vegetablesImages/lettuce.jpg"
+    },
+    {
+        "name": "iceberg lettuce",
+        "ch": 2.0,
+        "kcal": 14,
+        "image": "vegetablesImages/icebergLettuce.jpg"
+    },
+    {
+        "name": "asparagus lettuce",
+        "ch": 3.65,
+        "kcal": 18,
+        "image": "vegetablesImages/asparagusLettuce.jpg"
+    },
+    {
+        "name": "arugula",
+        "ch": 0.73,
+        "kcal": 5,
+        "image": "vegetablesImages/arugula.jpg"
+    },
+    {
+        "name": "radicchio",
+        "ch": 1.79,
+        "kcal": 9,
+        "image": "vegetablesImages/radicchio.jpg"
+    }
+
+]
